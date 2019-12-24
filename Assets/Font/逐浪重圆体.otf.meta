@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a8ea61639535aa44c81a3f6025126016
+timeCreated: 1532070468
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ZoomlaChongyuan-A006
+  fontNames:
+  - ZoomlaChongyuan-A006
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
